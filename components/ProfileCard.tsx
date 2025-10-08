@@ -2,7 +2,8 @@ import React from "react";
 import { Image, StyleSheet, Text, View } from "react-native";
 
 // Define the props interface for type safety
-//c'est vraiment compliqué la progra lolilol 
+//c'est vraiment compliqué la progra  
+// monsieur c'est pas moi promis 
 interface ProfileCardProps {
   name: string;
   jobTitle: string;
